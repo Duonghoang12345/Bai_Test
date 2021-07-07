@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7e81f46-46ff-482b-a0a9-784d5faca145" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SampleNew" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1mPmHXd4rGeoUZMaW5ilTcSnAzw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sample-project-v2-api/src/main/java/com/globits/sample" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\InternGlobits\sample-project-v2-api\src\main\java\com\globits\sample" />
+      <recent name="D:\InternGlobits\sample-project-v2-api\src\main\java\com\onemount\sample" />
+      <recent name="D:\Globits\sample-project-v2-api\src\main\java\com\globits\sample" />
+      <recent name="D:\Globits\sample-project-v2-api\src\main\java\com\globits\sample\service" />
+      <recent name="D:\Globits\sample-project-v2-api\src\main\java\com\globits\sample\domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Globits\sample-project-v2-api\src\main\java\com\globits\sample\rest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.onemount.sample.service" />
+      <recent name="com.onemount.sample.searchDto" />
+      <recent name="com.globits.sample.service" />
+      <recent name="com.globits.sample.repository" />
+      <recent name="com.globits.sample.rest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sample-project-v2-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.globits.SampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\duong\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7e81f46-46ff-482b-a0a9-784d5faca145" name="Default Changelist" comment="" />
+      <created>1609403514884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609403514884</updated>
+      <workItem from="1609403516429" duration="10278000" />
+      <workItem from="1609745668946" duration="5002000" />
+      <workItem from="1609815152380" duration="27024000" />
+      <workItem from="1609899109455" duration="6563000" />
+      <workItem from="1609916769537" duration="6062000" />
+      <workItem from="1609930554551" duration="342000" />
+      <workItem from="1609983947736" duration="871000" />
+      <workItem from="1610002184839" duration="488000" />
+      <workItem from="1610004938161" duration="9199000" />
+      <workItem from="1610025969205" duration="636000" />
+      <workItem from="1610029262994" duration="1996000" />
+      <workItem from="1610070433839" duration="1980000" />
+      <workItem from="1610089927246" duration="393000" />
+      <workItem from="1610091227635" duration="1270000" />
+      <workItem from="1610093614036" duration="1683000" />
+      <workItem from="1610097941719" duration="1995000" />
+      <workItem from="1610103418681" duration="1012000" />
+      <workItem from="1610421777275" duration="298000" />
+      <workItem from="1611298605280" duration="13920000" />
+      <workItem from="1611326967544" duration="5803000" />
+      <workItem from="1611415465318" duration="187000" />
+      <workItem from="1611476161877" duration="10420000" />
+      <workItem from="1611540683470" duration="21861000" />
+      <workItem from="1611585167709" duration="10560000" />
+      <workItem from="1611714016066" duration="14275000" />
+      <workItem from="1611800753973" duration="2355000" />
+      <workItem from="1611822720820" duration="299000" />
+      <workItem from="1612262671740" duration="386000" />
+      <workItem from="1612341013104" duration="607000" />
+      <workItem from="1612341970223" duration="1253000" />
+      <workItem from="1612344473377" duration="342000" />
+      <workItem from="1612345736127" duration="1890000" />
+      <workItem from="1612405007591" duration="2706000" />
+      <workItem from="1614005945835" duration="819000" />
+      <workItem from="1625038063006" duration="10987000" />
+      <workItem from="1625103077018" duration="16453000" />
+      <workItem from="1625217822374" duration="879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="javax.persistence.EntityNotFoundException" package="javax.persistence" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/sample-project-v2-api/src/main/java/com/globits/sample/service/impl/SanPhamServiceImp.java</url>
+          <line>102</line>
+          <properties class="com.globits.sample.service.impl.SanPhamServiceImp" method="addNewOrUpdate" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample-project-v2-api/src/main/java/com/globits/sample/rest/RestPhieuNhapController.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sample-project-v2-api/src/main/java/com/globits/sample/service/impl/SanPhamServiceImp.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
