@@ -139,6 +139,8 @@
       <workItem from="1625038063006" duration="10987000" />
       <workItem from="1625103077018" duration="16453000" />
       <workItem from="1625217822374" duration="879000" />
+      <workItem from="1625641262134" duration="4155000" />
+      <workItem from="1625645521315" duration="2699000" />
     </task>
     <servers />
   </component>
@@ -152,22 +154,6 @@
           <properties class="javax.persistence.EntityNotFoundException" package="javax.persistence" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint type="java-method">
-          <url>file://$PROJECT_DIR$/sample-project-v2-api/src/main/java/com/globits/sample/service/impl/SanPhamServiceImp.java</url>
-          <line>102</line>
-          <properties class="com.globits.sample.service.impl.SanPhamServiceImp" method="addNewOrUpdate" />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sample-project-v2-api/src/main/java/com/globits/sample/rest/RestPhieuNhapController.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sample-project-v2-api/src/main/java/com/globits/sample/service/impl/SanPhamServiceImp.java</url>
-          <line>103</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
